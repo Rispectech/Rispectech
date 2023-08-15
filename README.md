@@ -56,20 +56,8 @@
 &langs_count=10&show_icons=true&locale=en&layout=compact&theme=light" alt="Gift's language" height="192px"  width="500px"/>
 </div>
 
-**Expand to view**
-
-<details>
-  <summary><b>:zap: GitHub Profile Stat</b></summary>
-  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=Rispectech
-&show_icons=true" />
-</details>
-
 <!-- GitHub section: END -->
 
 <!-- Profile Views -->
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Rispectech
-&label=Profile%20views&color=0e75b6&style=flat" alt="isrealodejobi" />
-</p>
 
 <!-- THE END -->
