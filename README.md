@@ -3,7 +3,7 @@
 
 <!-- Profile Views -->
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lauragift21&label=Profile%20views&color=0e75b6&style=flat" alt="isrealodejobi" />
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Rispectech&label=Profile%20views&color=0e75b6&style=flat" alt="isrealodejobi" />
 </p>
 
 <p align="center">
@@ -56,8 +56,8 @@
 
 <div align="center">
   
-  ![GitHub Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=greeshma2903&theme=light)
-  ![Top Languages on GitHub](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=greeshma2903&theme=light)
+  ![GitHub Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Rispectech&theme=github_dark)
+  ![Top Languages on GitHub](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Rispectech&theme=github_dark)
 
 <div>
 
