@@ -52,8 +52,14 @@
 
  <div>
    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Rispectech" alt="Gift's LangStat" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Rispectech&langs_count=10&show_icons=true&locale=en&layout=compact&theme=light" alt="Gift's language" height="192px"  width="500px"/>
 </div>
+
+<div align="center">
+  
+  ![GitHub Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=greeshma2903&theme=light)
+  ![Top Languages on GitHub](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=greeshma2903&theme=light)
+
+<div>
 
 <!-- GitHub section: END -->
 
