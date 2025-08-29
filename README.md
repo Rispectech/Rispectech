@@ -48,7 +48,7 @@ I specialize in **Full Stack Development, AI, and scalable backend systems**, an
 - **Software Developer Engineer @ Mylo (Jan 2024 – Aug 2024)**  
   Developed **Myloware** (inventory management backend), worked on Flyhigh sales app, and integrated multiple APIs (E-Invoice, E-Way).
 
-- **Software Developer Engineer @ Neevaplay (Jan 2022 – May 2022)**  
+- **Software Developer Engineer Intern @ Neevaplay (Jan 2022 – May 2022)**  
   Created frontend dashboards in React/MUI for 20+ daily users, optimized performance, and implemented features like chat & calendar.
 
 - **AI Team Lead @ DIC-MDaRT, Panjab University (Jul 2021 – Dec 2023)**  
