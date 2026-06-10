@@ -21,29 +21,39 @@ I specialize in **Full Stack Development, AI, and scalable backend systems**, an
 <img align="right" alt="GIF" src="./code.gif" width="500" height="320" />
 
 - **Pronouns**: He/Him  
-- **Ask me about**: React, Next.js, Node.js, Python, FastAPI, TensorFlow, Firebase, AWS, GCP  
+- **Ask me about**: React, Next.js, Node.js, NestJS, PostgreSQL, Elasticsearch, Python, AI Systems, TensorFlow, AWS, GCP  
 - **How to reach me**: rishabhverma.work@gmail.com  
 - **Fun fact**: I’m a **national-level chess player**, competing for the past 6–8 years.  
 - **Interests**: Web Development, Artificial Intelligence, Cloud Platforms  
 
 ---
 
-##  Publications
+## Publications
 
-- **BT-AutoNet: A Deep Learning Approach for Automatic Brain Tumor Detection and Classification**  
-  Published in an SCI journal. [Read it here](https://www.tandfonline.com/eprint/2ZNNIS9NEEZXNGQS7SQP/full?target=10.1080/13682199.2023.2226413)
+### BT-AutoNet
+Deep Learning Approach for Automatic Brain Tumor Detection and Classification
 
-- **Region-based Convolutional Neural Network (R-CNN) Architecture for Auto-cropping of Pancreatic Computed Tomography**  
-  Mamta Juneja, Gurunameh Singh, Chirag Chanana, **Rishabh Verma**, Niharika Thakur & Prashant Jindal  
-  Pages 777–790 | Received: 05 Jan 2023 | Accepted: 12 Jun 2023 | Published online: 30 Jun 2023  
-  [Link to article above]
+- Published in an SCI-indexed journal (Impact Factor: 5.1)
+- Co-author and researcher
+
+[Read Publication](https://www.tandfonline.com/eprint/2ZNNIS9NEEZXNGQS7SQP/full?target=10.1080/13682199.2023.2226413)
+
+### R-CNN Architecture for Auto-cropping of Pancreatic CT
+Research work in medical image analysis and computer vision.
+
+[Read Publication](https://www.tandfonline.com/eprint/2ZNNIS9NEEZXNGQS7SQP/full?target=10.1080/13682199.2023.2226413)
 
 ---
 
 ##  Experience
 
 - **Software Developer Engineer @ JustBaatAI (Oct 2024 – Present)**  
-  Built **Justcollab** (paid review platform for D2C brands), contributed to **AI conversational personas** and **talking-head LLM integration**, and collaborated with Airtel’s frontend team on feature rollouts & monitoring.
+  - Built Justcollab, a paid review platform for D2C brands using TypeScript, Next.js, Firebase, FastAPI, and AWS S3.
+  - Developed backend services using Node.js, NestJS, PostgreSQL, and Elasticsearch.
+  - Designed database migrations, cron jobs, and automation workflows for production systems.
+  - Integrated AI conversational systems and talking-head generation pipelines.
+  - Built WhatsApp automation systems delivering 40K+ personalized notifications for government clients.
+  - Contributed to Airtel Africa campaigns serving 2.2M+ users across 10+ languages.
 
 - **Software Developer Engineer @ Mylo (Jan 2024 – Aug 2024)**  
   Developed **Myloware** (inventory management backend), worked on Flyhigh sales app, and integrated multiple APIs (E-Invoice, E-Way).
@@ -76,10 +86,9 @@ I specialize in **Full Stack Development, AI, and scalable backend systems**, an
 
 ## 📊 My GitHub Stats <img src="https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width="35px">
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Rispectech&theme=dark&hide_border=true)  
+![Profile Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rispectech&theme=github_dark)
 
-![GitHub Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Rispectech&theme=github_dark)  
-![Top Languages](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Rispectech&theme=github_dark)
+![Repos Per Language](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Rispectech&theme=github_dark)
 
 ---
 <!-- THE END -->
