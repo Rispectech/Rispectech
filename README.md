@@ -18,7 +18,7 @@
 I specialize in **Full Stack Development, AI, and scalable backend systems**, and I’m passionate about building products that blend **web technologies, machine learning, and cloud platforms**.
 
 <!-- code gif -->
-<img align="right" alt="GIF" src="./code.gif" width="500" height="320" />
+<!-- <img align="right" alt="GIF" src="./code.gif" width="500" height="320" /> -->
 
 - **Pronouns**: He/Him  
 - **Ask me about**: React, Next.js, Node.js, NestJS, PostgreSQL, Elasticsearch, Python, AI Systems, TensorFlow, AWS, GCP  
